@@ -1,6 +1,6 @@
-# Task Tracker API with PostgreSQL Backend
+# Task Tracker API with MySQL Backend
 
-Welcome to the Task Tracker API. It is based on RESTful API using Java, PostgreSQL, and robust error handling.
+Welcome to the Task Tracker API. It is based on RESTful API using Java, MySQL, and robust error handling.
 
 ![Screenshot (426)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/33f82a01-1f37-4161-a2c0-02eba5d59003)
 ![Screenshot (435)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/74d1ce4f-f016-435d-8de6-1ad2666b715d)
