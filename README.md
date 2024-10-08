@@ -3,7 +3,9 @@
 Welcome to the Task Tracker API. It is based on RESTful API using Java, MySQL, and robust error handling.
 
 ![Screenshot 2024-10-08 162845](https://github.com/user-attachments/assets/398ef79c-aa78-4d79-9259-4ea51e834cd6)
+
 ![Screenshot 2024-10-08 162854](https://github.com/user-attachments/assets/42da03b1-e024-4803-bebf-37d89dc666d7)
+
 ![Screenshot 2024-10-08 162920](https://github.com/user-attachments/assets/31b2a0be-a5a2-49f0-8d8c-3ec1d1d33d3a)
 
 
