@@ -42,7 +42,7 @@ Each task has the following properties:
 4. PUT /tasks/{id}: Update an existing task by its ID.
 5. DELETE /tasks/{id}: Delete a task by its ID
 ## 🔗 Links
-https://github.com/Ishi2001/Task-managing-app
+https://github.com/Irshadahmadkhan1/Task-Managing-App/tree/master
 ## Features
 
 - Task Tracker will add the  task
