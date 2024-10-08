@@ -2,9 +2,10 @@
 
 Welcome to the Task Tracker API. It is based on RESTful API using Java, MySQL, and robust error handling.
 
-![Screenshot (426)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/33f82a01-1f37-4161-a2c0-02eba5d59003)
-![Screenshot (435)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/74d1ce4f-f016-435d-8de6-1ad2666b715d)
-![Screenshot (434)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/92c797bf-80d8-41a4-a998-cfe399cab2da)
+![Screenshot 2024-10-08 162845](https://github.com/user-attachments/assets/398ef79c-aa78-4d79-9259-4ea51e834cd6)
+![Screenshot 2024-10-08 162854](https://github.com/user-attachments/assets/42da03b1-e024-4803-bebf-37d89dc666d7)
+![Screenshot 2024-10-08 162920](https://github.com/user-attachments/assets/31b2a0be-a5a2-49f0-8d8c-3ec1d1d33d3a)
+
 
 ## Programming Language used
 
