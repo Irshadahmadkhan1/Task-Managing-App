@@ -11,13 +11,14 @@ Welcome to the Task Tracker API. It is based on RESTful API using Java, MySQL, a
 
 ## Programming Language used
 
-Java framework Spring Boot and for Database used is PostgreSQL.
+Java framework Spring Boot and for Database used is MySQL.
 for frontend to display the task is thymeleaf.
 ## Configure MySQL
 
    1) Create a database in your MySQL instance.
    2) Update the application.properties file in the src/main/resources folder with the URL, username and password for your MySQL instance. The table schema for the Task Traker  will be created for you in the database.
-      ![Screenshot (430)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/847e2980-fb6e-4d12-bc7d-920145994c33)
+      ![Screenshot 2024-10-08 165915](https://github.com/user-attachments/assets/713980ff-4c62-4bfb-8a33-7695349fdc00)
+
 
 ## Build and run the sample
 
@@ -51,7 +52,5 @@ https://github.com/Ishi2001/Task-managing-app
 - Task Tracker will assigne the due date of task
 - It contains the logging file (log.txt)
 - It also handle the error
-## log.txt
-![Screenshot (431)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/0280542c-7327-4881-b454-965d6a6dcf88)
-![Screenshot (433)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/19536c2a-1689-4711-aa63-2659e79f896b)
+
 
