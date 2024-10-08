@@ -13,10 +13,10 @@ Welcome to the Task Tracker API. It is based on RESTful API using Java, MySQL, a
 
 Java framework Spring Boot and for Database used is PostgreSQL.
 for frontend to display the task is thymeleaf.
-## Configure PostgreSQL
+## Configure MySQL
 
-   1) Create a database in your PostgreSQL instance.
-   2) Update the application.properties file in the src/main/resources folder with the URL, username and password for your PostgreSQL instance. The table schema for the Task Traker  will be created for you in the database.
+   1) Create a database in your MySQL instance.
+   2) Update the application.properties file in the src/main/resources folder with the URL, username and password for your MySQL instance. The table schema for the Task Traker  will be created for you in the database.
       ![Screenshot (430)](https://github.com/Ishi2001/Task-managing-app/assets/71957301/847e2980-fb6e-4d12-bc7d-920145994c33)
 
 ## Build and run the sample
@@ -24,7 +24,7 @@ for frontend to display the task is thymeleaf.
     1. mvnw package
     2. Open a web browser to http://localhost:8309
 
-As you add and update tasks in the app you can verify the changes in the database through the PostgreSQL console. 
+As you add and update tasks in the app you can verify the changes in the database through the MySQL console. 
 ## Task Properties
 Each task has the following properties:
 
